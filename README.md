@@ -6,9 +6,9 @@
 
 # Mohammad Haseeb
 
-**Pakistan, Karachi**
+**Karachi, Pakistan**
 
-10+ years delivering production Android and cross-platform Flutter applications. Currently leading Android & Flutter engineering for P&G's consumer loyalty platform (**Pampers Rewards / Dodot Club**) across 7 international markets. Deep expertise in Kotlin, Jetpack Compose, MVVM and Clean Architecture — and actively applying AI-powered engineering (AI agents, MCP integrations, local LLMs) to raise code quality and delivery velocity.
+10+ years delivering production Android and cross-platform Flutter applications. Previously led Android & Flutter engineering for P&G's consumer loyalty platform (**Pampers Rewards / Dodot Club**) across 7 international markets. Deep expertise in Kotlin, Jetpack Compose, MVVM and Clean Architecture — and actively applying AI-powered engineering (AI agents, MCP integrations, local LLMs) to raise code quality and delivery velocity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhaseeb1991-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhaseeb1991/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mhaseeb1991.github.io-2563EB?style=flat-square&logo=safari&logoColor=white)](https://mhaseeb1991.github.io)
@@ -72,7 +72,7 @@
 
 ## Experience
 
-- **Senior Software Engineer — Android & Flutter Lead**, MSE Technology · Dubai, UAE *(Mar 2022 – Present)*
+- **Senior Software Engineer — Android & Flutter Lead**, MSE Technology · Dubai, UAE *(Mar 2022 – 2026)*
 - **Senior Software Engineer — Android**, AYM Commerce · Karachi, Pakistan *(Jan 2020 – Feb 2022)*
 - **Software Engineer — Android**, Zultec · Karachi, Pakistan *(Oct 2017 – Nov 2019)*
 - **Junior Software Engineer — Android**, KCompute · Karachi, Pakistan *(Apr 2016 – Sep 2017)*
@@ -83,9 +83,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mhaseeb1991&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhaseeb1991&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhaseeb1991&theme=tokyo-night&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mhaseeb1991&theme=tokyonight&hide_border=true)](https://github.com/mhaseeb1991)
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-*Open to Senior/Lead Android Roles · Karachi - on site, Dubai, UAE, KSA — remote*
+*Open to Senior/Lead Android roles · Karachi (on-site) · Dubai, UAE and KSA (remote)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1a3a8f&height=90&section=footer" width="100%"/>
 
