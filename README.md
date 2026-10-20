@@ -83,7 +83,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhaseeb1991&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=mhaseeb1991&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mhaseeb1991&theme=tokyonight&hide_border=true)](https://github.com/mhaseeb1991)
 
