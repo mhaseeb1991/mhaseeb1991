@@ -62,11 +62,13 @@
 
 ---
 
-## Featured Project
+## Featured Projects
 
 | Project | What it does |
 |---|---|
 | **[Pampers Rewards & Dodot Club](https://www.pgpampersrewards.com)** — P&G Consumer Loyalty Platform | Flagship loyalty app letting parents scan diaper codes (QR/barcode/alphanumeric) to earn rewards, redeem cashback & coupons, and track child development milestones — fully localized across 7 markets (US, CA, UK, FR, DE, PL, ES/PT) with independent regional release cycles and offline-aware, retry-safe flows for high-trust financial interactions |
+| **[Handi](https://github.com/mhaseeb1991/Handi)** — Recipe Notebook for Android | Offline-first native recipe app built with Kotlin, Jetpack Compose & Material 3 — staggered recipe grid with search, live servings scaler with fraction-aware quantity formatting, 4-step editor backed by a ~250-ingredient categorized catalog, camera/Photo Picker support, PDF export and full `.zip` backup & restore. Clean Architecture with Hilt, Room (tested migrations), type-safe Navigation and unidirectional StateFlow, with CI on GitHub Actions |
+| **[SP Alam Resort — Farmhouse Booking System](https://farm-house-project.vercel.app)** — Full-stack web platform | Production booking system for a private farmhouse: guests check a live day/night availability calendar, request bookings and track them; the admin office confirms bookings, records payments (Cash, Bank, JazzCash, Easypaisa, Card), issues PDF receipts and QR gate passes, and exports revenue reports (CSV/PDF). Gate staff scan passes from any phone to admit parties. Double bookings are prevented at the database level. Built with Next.js 15, TypeScript, Prisma & PostgreSQL on Vercel |
 
 ---
 
